@@ -1,0 +1,26 @@
+:root {
+  /* Themes */
+  /* success */
+  --notify-success-text-color: #FFFFFF;
+  --notify-success-bg-color: #00ac00;
+  --notify-success-bg-color--hover: #007700;
+  
+  --notify-success-border-color: #007700;
+  --notify-success-border-color--hover: #005515;
+  
+  /* warning */
+  --notify-warning-text-color: #FFFFFF;
+  --notify-warning-bg-color: #ee5f00;
+  --notify-warning-bg-color--hover: #ac4500;
+  
+  --notify-warning-border-color: #ac4500;
+  --notify-warning-border-color--hover: #642800;
+  
+  /* error */
+  --notify-error-text-color: #FFFFFF;
+  --notify-error-bg-color: #ac0000;
+  --notify-error-bg-color--hover: #770000;
+  
+  --notify-error-border-color: #770000;
+  --notify-error-border-color--hover: #550000;
+}
